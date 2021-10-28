@@ -66,7 +66,6 @@ namespace TaurusAPI.Controllers
                 else
                 {
                     throw;
-
                 }
             }
 
